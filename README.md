@@ -10,12 +10,13 @@
 
   
 - How to reach me: <br>
-[![Telegram](https://img.shields.io/badge/@jaam96-2CA5E0?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/zaycv)
-[![Gmail](https://img.shields.io/badge/jaam8@yandex.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alzaycevv@gmail.com)
+[![Telegram](https://img.shields.io/badge/@zaycv-2CA5E0?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/zaycv)
+[![Gmail](https://img.shields.io/badge/alzaycevv@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alzaycevv@gmail.com)
 
 
 - Languages & tools:
 <div align="center">
+  
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
